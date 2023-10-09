@@ -6,4 +6,7 @@ public class Glad {
 		System.out.println("We are all sad.");
 	}
 	
+	public static void another() {
+		System.out.println("another");
+	}
 }

@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author emu
+ *
+ */
+module WhateverYouWant {
+}
